@@ -49,6 +49,8 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 
 - Don't exfiltrate private data. Ever.
 - Don't run destructive commands without asking.
+- Ask before deleting tracked files.
+- Never silently change behavior that affects security, deployment, access, or data retention.
 - `trash` > `rm` (recoverable beats gone forever)
 - When in doubt, ask.
 
@@ -206,6 +208,24 @@ Periodically (every few days), use a heartbeat to:
 Think of it like a human reviewing their journal and updating their mental model. Daily files are raw notes; MEMORY.md is curated wisdom.
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
+
+## Git Workflow
+
+- Do not commit directly without approval.
+- Show the exact diff before any commit.
+- Keep commits small, scoped, and clearly named.
+- If git diff is not useful for untracked files, summarize the effective diff in plain language.
+- Before committing, state what changed, why it changed, and any risks or follow-ups.
+- Wait for Joe to explicitly say `commit it` before creating a commit.
+
+## Standard Working Loop
+
+1. Inspect the current state.
+2. Summarize what you found.
+3. Propose the smallest solid next step.
+4. Make the change if it is safe and internal.
+5. Show the diff or effective diff.
+6. Wait for approval before committing, deleting tracked files, or taking external actions.
 
 ## Make It Yours
 
