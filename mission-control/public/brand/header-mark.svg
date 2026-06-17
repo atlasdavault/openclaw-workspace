@@ -1,0 +1,11 @@
+<svg width="280" height="80" viewBox="0 0 280 80" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>P3 Solutions Group header mark</title>
+<polygon points="36,2 2,68 70,68" fill="#CC0000"/>
+<polygon points="36,10 8,67 64,67" fill="#990000" opacity="0.45"/>
+<polygon points="36,8 20,38 52,38" fill="#EE2222" opacity="0.55"/>
+<text x="27" y="54" font-family="Arial Black, Arial" font-weight="900" font-size="28" fill="#cccccc" text-anchor="middle">P</text>
+<text x="50" y="54" font-family="Arial Black, Arial" font-weight="900" font-size="28" fill="#ff3333" text-anchor="middle">3</text>
+<text x="175" y="36" font-family="Arial Black, Arial" font-weight="900" font-size="18" fill="#ffffff" text-anchor="middle" letter-spacing="2">P3 MISSION CONTROL</text>
+<text x="175" y="54" font-family="Arial" font-size="10" fill="#666666" text-anchor="middle" letter-spacing="1">LOCAL · STUDIO · p3mc.ngrok.io</text>
+<text x="175" y="68" font-family="Arial" font-size="8" fill="#444444" text-anchor="middle" letter-spacing="1">INTEGRATING PEOPLE, PRACTICES, AND PRINCIPLES</text>
+</svg>

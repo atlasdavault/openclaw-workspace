@@ -1,0 +1,46 @@
+{
+  "standards": [
+    {
+      "id": "security",
+      "title": "Security",
+      "description": "Auth, RLS, secrets, command boundaries, and external-action rules.",
+      "file": "security.md"
+    },
+    {
+      "id": "frontend",
+      "title": "Frontend",
+      "description": "React, UI, state, styling, accessibility, and verification conventions.",
+      "file": "frontend.md"
+    },
+    {
+      "id": "backend",
+      "title": "Backend",
+      "description": "API, data, error-handling, service boundaries, and backend verification rules.",
+      "file": "backend.md"
+    },
+    {
+      "id": "voice",
+      "title": "Voice",
+      "description": "Atlas voice identity, transcript format, privacy, fallback, and provider evaluation.",
+      "file": "voice.md"
+    },
+    {
+      "id": "git",
+      "title": "Git",
+      "description": "Branching, commits, PRs, changelog, account identity, and safety rules.",
+      "file": "git.md"
+    },
+    {
+      "id": "smartbites",
+      "title": "SmartBites",
+      "description": "Product, stack, data quality, auth, and admin-action conventions.",
+      "file": "smartbites.md"
+    },
+    {
+      "id": "agents",
+      "title": "Agents",
+      "description": "Agent roles, routing defaults, memory, skills, and closeout conventions.",
+      "file": "agents.md"
+    }
+  ]
+}

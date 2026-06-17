@@ -1,0 +1,7 @@
+{
+  "entries": [
+    { "id": "j3", "date": "2026-06-14", "title": "Phase 3 build day", "body": "Wired the Jarvis voice interface end-to-end with Web Speech API and wake-word detection. Stood up six agent control rooms with live data feeds, added SmartBites monitoring to Mission Control, and shipped the Goals / Memory / Journal / Settings system pages." },
+    { "id": "j2", "date": "2026-06-13", "title": "Gateway hardening", "body": "Reviewed ngrok tunnel stability for the OpenClaw gateway and dashboard. Confirmed auth-header injection works through the bridge and device pairing flows are stable for external access." },
+    { "id": "j1", "date": "2026-06-12", "title": "SmartBites momentum", "body": "Indexed another batch of restaurant menus and pushed allergen tagging improvements. Beta cohort feedback is positive on the allergy-aware menu flow. Prepping for the next onboarding wave." }
+  ]
+}

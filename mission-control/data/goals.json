@@ -1,0 +1,8 @@
+{
+  "goals": [
+    { "id": "g1", "text": "Ship Mission Control Phase 3 (voice, control rooms, system pages)", "done": false, "createdAt": "2026-06-14T08:00:00Z" },
+    { "id": "g2", "text": "Onboard 25 restaurants to SmartBites by end of quarter", "done": false, "createdAt": "2026-06-10T08:00:00Z" },
+    { "id": "g3", "text": "Stabilize OpenClaw gateway ngrok tunnel for 99.9% uptime", "done": true, "createdAt": "2026-06-08T08:00:00Z" },
+    { "id": "g4", "text": "Launch SmartBites mobile beta to 100 users", "done": false, "createdAt": "2026-06-12T08:00:00Z" }
+  ]
+}

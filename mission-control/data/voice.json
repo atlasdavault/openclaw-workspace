@@ -1,0 +1,7 @@
+{
+  "backend": "ollama",
+  "model": "llama3.2:latest",
+  "wakeWord": "Atlas",
+  "device": ":0",
+  "voice": "bm_daniel"
+}

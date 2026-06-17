@@ -1,0 +1,7 @@
+<svg width="40" height="48" viewBox="0 0 40 48" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>P3 Solutions Group sidebar mark</title>
+<polygon points="20,2 2,38 38,38" fill="#CC0000"/>
+<polygon points="20,8 6,37 34,37" fill="#AA0000" opacity="0.4"/>
+<polygon points="20,5 10,24 30,24" fill="#EE1111" opacity="0.6"/>
+<text x="20" y="32" font-family="Arial Black, Arial" font-weight="900" font-size="18" fill="#ffffff" text-anchor="middle" letter-spacing="-0.5">P3</text>
+</svg>

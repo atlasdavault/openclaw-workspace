@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {"id": "t1", "title": "Review ngrok tunnel config", "description": "Verify gateway and dashboard tunnels are stable.", "status": "done", "priority": "high", "agent": "Atlas", "createdAt": "2026-06-14T00:00:00Z"},
+    {"id": "t2", "title": "Build Mission Control Phase 1", "description": "Foundation dashboard with agent cards, Kanban, Jarvis orb.", "status": "in_progress", "priority": "high", "agent": "Atlas", "createdAt": "2026-06-14T04:00:00Z"},
+    {"id": "t3", "title": "Configure SmartBites landing page", "description": "Mobile-first layout with hero copy and CTA.", "status": "todo", "priority": "medium", "agent": "Claude", "createdAt": "2026-06-14T05:00:00Z"},
+    {"id": "p4t1", "title": "Phase 4: Real-time WebSocket feed", "description": "Real-time WebSocket feed replacing polling.", "status": "todo", "priority": "medium", "agent": "Atlas", "createdAt": "2026-06-14T12:30:00Z"},
+    {"id": "p4t2", "title": "Phase 4: SmartBites admin actions", "description": "SmartBites admin actions from Mission Control.", "status": "todo", "priority": "medium", "agent": "Atlas", "createdAt": "2026-06-14T12:31:00Z"},
+    {"id": "p4t3", "title": "Phase 4: Multi-agent task routing", "description": "Multi-agent task routing (auto-assign task to the right agent).", "status": "todo", "priority": "medium", "agent": "Atlas", "createdAt": "2026-06-14T12:32:00Z"},
+    {"id": "p4t4", "title": "Phase 4: Mobile PWA", "description": "Mobile PWA so p3mc.ngrok.io works as an iPhone home-screen app.", "status": "todo", "priority": "medium", "agent": "Atlas", "createdAt": "2026-06-14T12:33:00Z"}
+  ]
+}

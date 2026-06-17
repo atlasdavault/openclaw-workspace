@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.vite/
+coverage/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+*.p12
+*.secret
+*.token
+
+# Runtime logs and process files
+*.log
+logs/
+tmp/
+temp/
+.DS_Store
+
+# Mission Control generated runtime media
+data/studio/
+data/tts/
+data/**/*.wav
+data/**/*.mp3
+data/**/*.mp4
+data/**/*.png
+data/**/*.jpg
+data/**/*.jpeg
+data/**/*.webp
+
+# Local voice / model artifacts if copied into this repo
+.venv/
+models/
+recordings/
+out/
+
+# Backups
+*.bak
+*.backup

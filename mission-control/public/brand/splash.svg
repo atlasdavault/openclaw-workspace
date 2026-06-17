@@ -1,0 +1,14 @@
+<svg width="400" height="440" viewBox="0 0 400 440" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>P3 Solutions Group splash screen logo</title>
+<rect width="400" height="440" fill="#0a0a0f"/>
+<polygon points="200,20 60,280 340,280" fill="#CC0000"/>
+<polygon points="200,48 80,278 320,278" fill="#990000" opacity="0.45"/>
+<polygon points="200,30 130,160 270,160" fill="#EE2222" opacity="0.55"/>
+<text x="178" y="230" font-family="Arial Black, Arial" font-weight="900" font-size="90" fill="#cccccc" text-anchor="middle">P</text>
+<text x="232" y="230" font-family="Arial Black, Arial" font-weight="900" font-size="90" fill="#ff3333" text-anchor="middle">3</text>
+<text x="200" y="320" font-family="Arial Black, Arial" font-weight="900" font-size="22" fill="#ffffff" text-anchor="middle" letter-spacing="4">SOLUTIONS GROUP</text>
+<text x="200" y="348" font-family="Arial" font-size="11" fill="#666666" text-anchor="middle" letter-spacing="2">INTEGRATING PEOPLE, PRACTICES, AND PRINCIPLES</text>
+<line x1="80" y1="368" x2="320" y2="368" stroke="#CC0000" stroke-width="0.5" opacity="0.4"/>
+<text x="200" y="390" font-family="Arial" font-size="11" fill="#CC0000" text-anchor="middle" letter-spacing="3">MISSION CONTROL</text>
+<text x="200" y="410" font-family="Arial" font-size="9" fill="#444444" text-anchor="middle" letter-spacing="2">v1.1.0 · Phase 2</text>
+</svg>

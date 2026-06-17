@@ -1,0 +1,24 @@
+{
+  "skills": {
+    "imagegen": {
+      "status": "active",
+      "lastUsed": null
+    },
+    "openai-docs": {
+      "status": "active",
+      "lastUsed": null
+    },
+    "plugin-creator": {
+      "status": "active",
+      "lastUsed": null
+    },
+    "skill-creator": {
+      "status": "active",
+      "lastUsed": null
+    },
+    "skill-installer": {
+      "status": "active",
+      "lastUsed": null
+    }
+  }
+}

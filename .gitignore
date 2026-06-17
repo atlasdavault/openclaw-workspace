@@ -1,0 +1,54 @@
+# macOS / editor noise
+.DS_Store
+*.swp
+*.swo
+*.tmp
+
+# Secrets and local OpenClaw runtime state
+.env
+.env.*
+!.env.example
+.openclaw/
+.openclaw-cli-images/
+state/
+memory/
+*.pem
+*.key
+*.crt
+*.p12
+*.mobileprovision
+*.secret
+*.token
+
+# Runtime logs, caches, and generated files
+*.log
+logs/
+tmp/
+temp/
+cache/
+*.bak
+*.backup
+
+# Node / frontend artifacts
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+.next/
+
+# Nested product/application repos are managed independently.
+/smartbites/
+/dashboard/
+
+# Local one-off prototypes and generated media
+/index.html
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.webm
+*.png
+*.jpg
+*.jpeg
+*.webp

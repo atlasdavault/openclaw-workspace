@@ -1,0 +1,8 @@
+{
+  "gatewayUrl": "http://127.0.0.1:18789",
+  "ngrokUrl": "https://p3mc.ngrok.io",
+  "tokenRefreshInterval": 30,
+  "wakeWordEnabled": false,
+  "voice": "",
+  "theme": "dark"
+}

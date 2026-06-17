@@ -1,0 +1,11 @@
+{
+  "usage": [
+    { "agent": "Atlas", "model": "gpt-5.4", "tokens": 12450, "cost": 0.04 },
+    { "agent": "Claude", "model": "Sonnet 4.6", "tokens": 8200, "cost": 0.02 },
+    { "agent": "Ollama", "model": "qwen2.5:7b", "tokens": 3100, "cost": 0.0 },
+    { "agent": "Codex", "model": "gpt-5.5", "tokens": 6740, "cost": 0.03 },
+    { "agent": "Gemini", "model": "Gemini 2.0", "tokens": 5310, "cost": 0.01 },
+    { "agent": "OpenClaw", "model": "local", "tokens": 1820, "cost": 0.0 }
+  ],
+  "updatedAt": "2026-06-14T12:00:00Z"
+}
